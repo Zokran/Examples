@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DatabaseList</string>
+    <string name="action_settings">Settings</string>
+    <string name="first_name">Ime</string>
+    <string name="last_name">Prezime</string>
+    <string name="gender">Spol</string>
+    <string name="gender_male">Muško</string>
+    <string name="gender_female">Žensko</string>
+    <string name="phone_number">Telefonski broj</string>
+    <string name="button_add">Dodaj</string>
+    <string name="button_overview">Pregledaj</string>
+    <string name="edit">Edit</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="test">Test</string>
+
+</resources>
